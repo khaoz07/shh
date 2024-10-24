@@ -1,6 +1,7 @@
 *{
  margin: 0;
  padding: 0;  
+ font-family: "POPPINS";
 }
 
 .cabecalho {
@@ -43,4 +44,8 @@ font-size: 24px ;
 }
 .escola-titulo{
     padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 120px; ;
 }
