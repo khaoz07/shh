@@ -68,8 +68,11 @@ font-size: 24px ;
 }
 .rodape{
     background-color: black;
+    text-align: center
 }
 
 .rodape-imagem{
-    height: 60px;
+    width: 20%;
+    padding: 12px 0;
+   ;
 }
